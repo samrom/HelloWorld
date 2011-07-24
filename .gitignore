@@ -2,3 +2,4 @@ Debug/
 .gitignore~
 ipch/
 *.opensdf
+*.sdf
